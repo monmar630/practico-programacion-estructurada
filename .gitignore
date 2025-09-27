@@ -1,0 +1,12 @@
+# Ignorar carpetas generadas (como binarios de compilación)
+/build/
+/dist/
+
+# Ignorar la carpeta de configuración interna de NetBeans
+/nbproject/private/
+
+# Ignorar otros archivos generados o temporales
+*.jar
+*.war
+*.zip
+manifest.mf
